@@ -1,0 +1,12 @@
+[
+  {
+    "timeStamp": 1652402283393,
+    "nombre": "cosa 1",
+    "descripcion": "una descripcion",
+    "codigo": "01",
+    "fotoUrl": "unaurl.com",
+    "precio": 30,
+    "stock": 4,
+    "id": 2
+  }
+]
